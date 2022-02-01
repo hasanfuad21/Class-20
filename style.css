@@ -1,0 +1,23 @@
+img{
+    width: 50px;
+}
+.header-bg{
+    background: #ACB6BE !important;
+}
+.background1{
+    background: #E9ECEF;
+    padding: 10px;
+}
+.carousel-inner img{
+    height: 500px;
+}
+.progress{
+    margin-bottom: 10px;
+}
+
+footer{
+    background: cyan;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 20px;
+}
